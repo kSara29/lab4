@@ -1,0 +1,65 @@
+form{
+    margin:50px;
+}
+
+.form-control{
+    width: 100%;
+}
+
+.log{
+    margin:50px;
+}
+
+#index{
+    display: flex;
+}
+#login{
+    display:flex
+}
+
+.alert-danger{
+    display: none;
+    background-color: white;
+    color: red;
+    border-color: white;
+}
+
+.login{
+    margin-left: 10%;
+}
+
+.register{
+    margin-left: 5%;
+}
+
+.hello{
+    display:none;
+}
+
+.reset_pass{
+    display: none;
+}
+
+.reset{
+    width:30%;
+}
+.new_login{
+    width: 30%;
+    margin-left: 5%;
+}
+
+.hidden {
+    display: none;
+    margin-top: 0.5%;
+}
+
+#logout{
+    border: white;
+    background-color: white;
+    display: none;
+
+}
+
+.timeout{
+    display: none;
+}
